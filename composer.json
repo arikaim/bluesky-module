@@ -1,0 +1,19 @@
+{
+    "name": "arikaim/bluesky-module",
+    "description": "Arikam CMS BlueSky Api Module",
+    "keywords": ["Module", "Arikam CMS BlueSky Api Module"],
+    "type": "arikaim-module",
+    "license": "GPL-3.0-or-later",
+    "authors": [{
+        "name": "Konstantin Atanasov",
+        "email": "info@arikaim.com",
+        "homepage": "http://arikaim.com"
+    }],
+    "require": {
+        "arikaim/installer": "*", 
+        "shahmal1yev/blueskysdk": "^1@beta"        
+    },
+    "extra": {
+        "path": "bluesky"
+    }
+}
