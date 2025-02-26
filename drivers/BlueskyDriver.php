@@ -10,7 +10,7 @@
 namespace Arikaim\Modules\Bluesky\Drivers;
 
 use Atproto\Client;
-use Atproto\BskyFacade;
+use Arikaim\Modules\Bluesky\BskyFacade;
 
 use Arikaim\Core\Driver\Traits\Driver;
 use Arikaim\Core\Interfaces\Driver\DriverInterface;

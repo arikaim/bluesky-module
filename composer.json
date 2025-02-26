@@ -11,7 +11,7 @@
     }],
     "require": {
         "arikaim/installer": "*", 
-        "shahmal1yev/blueskysdk": "^1@beta"        
+        "shahmal1yev/blueskysdk": "^1.7@beta"        
     },
     "extra": {
         "path": "bluesky"
