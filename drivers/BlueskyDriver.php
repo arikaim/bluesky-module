@@ -67,7 +67,7 @@ class BlueskyDriver implements DriverInterface
      */
     public function bluesky()
     {
-        return BskyFacade($this->client);
+        return BskyFacade::getInstance($this->client);
     }
 
     /**
